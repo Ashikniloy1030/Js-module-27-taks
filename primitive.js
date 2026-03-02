@@ -1,0 +1,1 @@
+//primitive and non primitive data google korte hobe
